@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 	Simple Card component that allows to add image, heading and description via props.
 ### Screenshot
 
-![](./sh1.jpg)
-![](./sh2.jpg)
+![](./sh1.png)
+![](./sh2.png)
 
 ### Links
 
